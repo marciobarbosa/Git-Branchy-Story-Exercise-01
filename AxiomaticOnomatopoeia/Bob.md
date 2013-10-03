@@ -4,3 +4,4 @@ Bob is in Albany waiting for a taxy to Troy City.
 Bob is going to Troy by Taxy.
 Bob arrived in Troy City.
 Bob is going to RPI.
+The driver do not know how to arrive in RPI.
